@@ -1,7 +1,7 @@
 {
   "name": "htmlhint",
   "main": "./lib/htmlhint",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "HTMLHint reports for your Atom editor",
   "activationEvents": [

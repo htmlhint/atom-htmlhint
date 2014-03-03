@@ -1,0 +1,12 @@
+.htmlhint .panel-body {
+    max-height: 200px;
+    overflow-y: scroll;
+}
+
+.htmlhint .close {
+    margin-top: -5px;
+}
+
+.htmlhint pre {
+    cursor: pointer;
+}

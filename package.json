@@ -13,6 +13,7 @@
     "atom": ">0.50.0"
   },
   "dependencies": {
-    "htmlhint": "^0.9.3"
+    "htmlhint": "^0.9.3",
+    "atom-message-panel": ">=0.1.0"
   }
 }

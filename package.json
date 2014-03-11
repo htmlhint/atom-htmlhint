@@ -1,6 +1,6 @@
 {
   "name": "htmlhint",
-  "main": "./lib/htmlhint",
+  "main": "./lib/init",
   "version": "0.1.0",
   "private": true,
   "description": "HTMLHint reports for your Atom editor",

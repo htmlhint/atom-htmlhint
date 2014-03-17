@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "htmlhint": "^0.9.3",
-    "atom-message-panel": ">=0.1.0",
+    "atom-message-panel": "^0.3.0",
     "atom-keymap-plus": "^0.1.0"
   }
 }

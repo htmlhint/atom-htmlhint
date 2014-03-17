@@ -2,7 +2,7 @@
 
 > [HTMLHint](https://github.com/yaniswang/HTMLHint) reports for your [Atom](http://atom.io) editor.
 
-![](https://dl.dropboxusercontent.com/u/2714001/htmlhint.gif)
+![preview](https://raw.github.com/tcarlsen/atom-htmlhint/master/preview.jpg)
 
 ## Installation
 
@@ -17,6 +17,15 @@ $ apm install htmlhint
 HTMLHint is by default validating on save (this can be changed in the package settings), you can also execute it by hitting `cmd+alt+l` or run `Htmlhint` from the Command Palette.
 
 If you like you can even set it to validate while typing in the package settings.
+
+## Features
+
+ * Validate on keymap
+ * Validate on command
+ * Validate on save *(toggle in settings)*
+ * Validate on change *(toggle in settings)*
+ * Option to hide the error panel if no errors were found *(toggle in settings)*
+ * Option to use `fold mode` by default *(toggle in settings)*
 
 ## License
 

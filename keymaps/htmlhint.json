@@ -1,5 +1,5 @@
 {
     ".editor.html": {
-        "cmd-alt-l": "htmlhint"
+        "cmd-alt-l": "htmlhint:hint"
     }
 }

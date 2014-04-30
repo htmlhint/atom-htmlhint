@@ -1,4 +1,9 @@
 
+0.3.2 / 2014-04-30
+==================
+
+ * fix issue [#2](https://github.com/tcarlsen/atom-htmlhint/issues/2)
+
 0.3.0 / 2014-03-17
 ==================
 

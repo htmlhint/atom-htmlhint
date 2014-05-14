@@ -1,5 +1,8 @@
 {
-    ".editor.html": {
+    ".platform-darwin .editor.html": {
         "cmd-alt-l": "htmlhint:hint"
+    },
+    ".platform-win32 .editor.html, .platform-linux .editor.html": {
+        "ctrl-alt-l": "htmlhint:lint"
     }
 }

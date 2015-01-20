@@ -1,5 +1,18 @@
 
-0.4.0 / 2014-05-14 
+1.0.0 / 2015-01-20
+==================
+
+  * total rewrite
+    * now written i Coffeescript
+    * now supports the new atom API
+    * removing atom-keymap-plus
+    * updating atom-message-panel to 1.1.4
+    * updating htmlhint to 0.9.6
+    * adding support for .htmlhintrc (fixes #3)
+  * adding .editorconfig
+  * adding LICENSE.md
+
+0.4.0 / 2014-05-14
 ==================
 
  * adding support for windows and linux

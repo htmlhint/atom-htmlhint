@@ -1,6 +1,6 @@
 {
   "name": "htmlhint",
-  "main": "./lib/init",
+  "main": "./lib/main",
   "version": "0.4.0",
   "private": true,
   "description": "HTMLHint reports for your Atom editor",
@@ -8,11 +8,10 @@
   "author": "tcarlsen",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.174.0"
   },
   "dependencies": {
-    "htmlhint": "^0.9.3",
-    "atom-message-panel": "^0.3.0",
-    "atom-keymap-plus": "^0.1.0"
+    "htmlhint": "^0.9.6",
+    "atom-message-panel": "^1.1.4"
   }
 }

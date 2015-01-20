@@ -1,0 +1,2 @@
+  "atom-text-editor[data-grammar='text html basic']":
+    "ctrl-alt-l": "htmlhint:hint"

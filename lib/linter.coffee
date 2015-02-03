@@ -5,6 +5,9 @@ messages = new MessagePanelView
   title: "<span class=\"icon-bug\"></span> HTMLHint report"
   rawTitle: true
   closeMethod: "destroy"
+editor = null
+content = null
+result = null
 
 module.exports = ->
   editor = atom.workspace.getActiveTextEditor()

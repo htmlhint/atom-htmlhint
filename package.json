@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "htmlhint": "^0.9.6",
-    "atom-message-panel": "^1.1.4"
+    "atom-message-panel": "1.2.2"
   }
 }

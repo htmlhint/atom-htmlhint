@@ -1,5 +1,9 @@
 # HTMLHint
 
+![](https://img.shields.io/apm/v/htmlhint.svg)
+![](https://img.shields.io/apm/dm/htmlhint.svg)
+![](https://img.shields.io/apm/l/htmlhint.svg)
+
 > [HTMLHint](https://github.com/yaniswang/HTMLHint) reports for your [Atom](http://atom.io) editor.
 
 ![preview](https://cloud.githubusercontent.com/assets/145288/5823816/20bdc9e6-a0e0-11e4-8e27-db74a172aac1.png)

@@ -33,6 +33,8 @@
 
 ## Table of Contents
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/htmlhint/atom-htmlhint.svg)](https://greenkeeper.io/)
+
 - **[Features](#features)**
 - **[Install](#install)**
 - **[Usage](#usage)**

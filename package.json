@@ -1,11 +1,9 @@
 {
-  "name": "htmlhint",
+  "name": "atom-htmlhint",
   "main": "./lib/main",
   "version": "1.1.4",
-  "private": true,
   "description": "HTMLHint reports for your Atom editor",
-  "repository": "https://github.com/tcarlsen/atom-htmlhint",
-  "author": "tcarlsen",
+  "repository": "https://github.com/htmlhint/atom-htmlhint",
   "license": "MIT",
   "engines": {
     "atom": ">0.174.0"

@@ -1,7 +1,7 @@
 {
   "name": "atom-htmlhint",
   "main": "./lib/main",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "HTMLHint reports for your Atom editor",
   "repository": "https://github.com/htmlhint/atom-htmlhint",
   "license": "MIT",

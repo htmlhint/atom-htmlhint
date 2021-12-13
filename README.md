@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="#install">How To Use</a> • <a href="/CONTRIBUTING.md">Contributing</a> • <a href="http://roadmap.htmlhint.io/">Roadmap</a> • <a href="https://htmlhint.io">Website</a>
+  <a href="#install">How To Use</a> • <a href="/CONTRIBUTING.md">Contributing</a> • <a href="https://htmlhint.com">Website</a>
 </p>
 
 ![preview](https://cloud.githubusercontent.com/assets/145288/5823816/20bdc9e6-a0e0-11e4-8e27-db74a172aac1.png)

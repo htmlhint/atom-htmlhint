@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "atom-message-panel": "^1.3.0",
-    "htmlhint": "^0.10.1"
+    "htmlhint": "^0.16.2"
   }
 }
